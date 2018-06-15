@@ -6,7 +6,7 @@ Voor deze workflow moet de gebruiker Snakemake installeren.
 
 Deze workflow is uit te voeren door het volgende in de terminal te typen:
 
-# snakemake results
+### snakemake results
 
 
 De resultaten zijn te vinden in results.txt in de hoofdmap waar het Snakefile zich bevindt.
@@ -29,6 +29,6 @@ Hierna is een rapport voor elk gen te vinden.
 -Pathway
 
 
-## De workflow is te zien in dag.pdf in de hoofdmap
+### De workflow is te zien in dag.pdf in de hoofdmap
 
 de workflow bestaat uit 9 stappen waarbij alles samenkomt in de stap *results*
