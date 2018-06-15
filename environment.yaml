@@ -1,0 +1,13 @@
+name: environment
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - python=3.6.2
+  - snakemake=4.0.0
+  - pyyaml=3.12
+  - pandas=0.22.0
+  - biopython=1.71
+  - bioservices=1.5.2
