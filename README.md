@@ -9,6 +9,8 @@ Deze workflow is uit te voeren door het volgende in de terminal te typen:
 ### snakemake results
 
 
+
+
 De resultaten zijn te vinden in results.txt in de hoofdmap waar het Snakefile zich bevindt.
 
 Het rapport toon eerst de gene ID's gesorteerd op het aantal voorkomen in PubMed Artikelen.
