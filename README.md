@@ -15,12 +15,12 @@ Het rapport toon eerst de gene ID's gesorteerd op het aantal voorkomen in PubMed
 Hierna is een rapport voor elk gen te vinden.
 
 ## In het rapport staat de volgende informatie:
--Gene ID
--Converted Gene ID
--Sequence
--Function
--Pubmed entries
--Pathway
+⋅⋅-Gene ID
+⋅⋅-Converted Gene ID
+⋅⋅-Sequence
+⋅⋅-Function
+⋅⋅-Pubmed entries
+⋅⋅-Pathway
 
 ## De workflow is te zien in dag.pdf in de hoofdmap
 
